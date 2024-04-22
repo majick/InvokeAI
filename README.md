@@ -1,3 +1,7 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+I used to contribute to Invoke, but they removed my credit despite how meticulous they claim to be about crediting contributors. So I abandoned the project.
+I no longer contribute to Invoke.
+
 <div align="center">
 
 # InvokeAI: A Stable Diffusion Toolkit
